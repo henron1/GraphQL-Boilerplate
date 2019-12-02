@@ -1,0 +1,24 @@
+{
+  "name": "graphql-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate repo for using GraphQL with Node/Express servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henron1/GraphQL-Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henron1/GraphQL-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/henron1/GraphQL-Boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  }
+}
